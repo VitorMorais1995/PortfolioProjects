@@ -23,7 +23,6 @@ SELECT
 	new_cases,
 	total_deaths,
 	population
-
 FROM
 	Project_Covid.dbo.Covid_Deaths
 ORDER BY
