@@ -11,7 +11,8 @@ SELECT
 FROM
 	Project_Covid.dbo.Covid_Deaths
 ORDER BY
-	3,4
+	3,
+	4
 
 
 -- Selecting the data that we need from this first table
