@@ -200,7 +200,7 @@ FROM
 
 
 
--- We can also use temp table to perfomr Calculation on Partition By in the previus query
+-- We can also use temp table to perform Calculation on Partition By in the previus query
 DROP TABLE IF EXISTS
 	#PercentPopVac
 CREATE TABLE
